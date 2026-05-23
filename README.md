@@ -1,5 +1,6 @@
 # Lung Cancer Risk Prediction - Data Pipeline
-**The full codebase will be made available here shortly.**
+
+**Data-Driven Computing Architectures 2026 | Final Project | Group Turku-5**
 
 
 ## Group Members & Contributions
